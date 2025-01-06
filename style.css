@@ -26,7 +26,7 @@ body {
 
 .invitation-footer {
     position: absolute;
-    bottom: 50%; /* Adjust as needed */
+    bottom: 30%; /* Adjust as needed */
     left: 50%;
     transform: translateX(-50%);
     font-size: 1.5em; /* Adjust font size if needed */
