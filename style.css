@@ -5,9 +5,9 @@ body {
 
 .invitation {
     position: relative;
-    width: 730px;
-    height: 1032px;
-    margin: 5px auto;
+    width: 800px;
+    height: 600px;
+    margin: 50px auto;
     text-align: center;
 }
 
