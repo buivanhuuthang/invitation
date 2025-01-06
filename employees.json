@@ -1,0 +1,7 @@
+{
+    "employees": [
+        { "name": "Nguyễn Văn A", "email": "nguyenvana@example.com" },
+        { "name": "Trần Thị B", "email": "tranthib@example.com" },
+        // Thêm nhân viên khác ở đây
+    ]
+}
