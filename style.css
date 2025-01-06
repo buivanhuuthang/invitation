@@ -27,5 +27,6 @@ body {
 #invitee-name {
     font-size: 2em;
     font-weight: bold;
-    margin-bottom: 200px;
+    margin-bottom: 20px;
+    position: relative; top:100px;
 }
