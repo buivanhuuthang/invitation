@@ -34,5 +34,9 @@ body {
 }
 
 #invitee-name {
+    position: absolute;
+    top: 70%; /* Adjust this value to align vertically */
+    left: 35%; /* Adjust this value to align horizontally */
+    font-size: 2em;
     font-weight: bold;
 }
