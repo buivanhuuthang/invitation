@@ -28,5 +28,5 @@ body {
     font-size: 2em;
     font-weight: bold;
     margin-bottom: 20px;
-    position: relative; top:100px;
+    position: relative; top:100px; left:25px;
 }
