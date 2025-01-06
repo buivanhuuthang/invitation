@@ -24,11 +24,15 @@ body {
     color: #000;
 }
 
-#invitee-name {
+.invitation-footer {
     position: absolute;
-    top: 80%;
-    left: 60%;
+    bottom: 10%; /* Adjust as needed */
+    left: 50%;
     transform: translateX(-50%);
-    font-size: 2em;
+    font-size: 1.5em; /* Adjust font size if needed */
+    text-align: center;
+}
+
+#invitee-name {
     font-weight: bold;
 }
