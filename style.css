@@ -18,16 +18,12 @@ body {
 
 .invitation-content {
     position: absolute;
-    top: 20%;
+    top: 50%;
     left: 50%;
     transform: translateX(-50%);
-    color: #000;
+    color: #fff;
 }
 
 #invitee-name {
-    position: absolute;
-    top: 70%; /* Adjust this value to align vertically */
-    left: 35%; /* Adjust this value to align horizontally */
-    font-size: 2em;
     font-weight: bold;
 }
