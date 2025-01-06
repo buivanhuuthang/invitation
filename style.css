@@ -12,7 +12,7 @@ body {
 }
 
 .invitation-bg {
-    width: 50%;
+    width: 100%;
     height: auto;
 }
 
@@ -26,5 +26,6 @@ body {
 
 #invitee-name {
     color: #ffffff;
+    font-size: 1em;
     font-weight: bold;
 }
