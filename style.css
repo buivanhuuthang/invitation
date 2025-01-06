@@ -20,17 +20,16 @@ body {
 
 .invitation-content {
     position: absolute;
-    top: 58.5%;
-    left: 50%;
+    top: 55.5%;
+    left: 57%;
     transform: translateX(-50%);
     color: #000;
-    background: rgba(255, 255, 255, 0.8);
     padding: 20px;
     border-radius: 10px;
 }
 
 #invitee-name {
-    color: #ff0000;
+    color: #ffffff;
     font-size: 1.2em;
     font-weight: bold;
     font-family: 'Great Vibes', cursive;
