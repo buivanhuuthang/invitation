@@ -5,8 +5,8 @@ body {
 
 .invitation {
     position: relative;
-    width: 800px;
-    height: 600px;
+    width: 1811px;
+    height: 2560px;
     margin: 50px auto;
     text-align: center;
 }
@@ -21,9 +21,10 @@ body {
     top: 50%;
     left: 50%;
     transform: translateX(-50%);
-    color: #ffffff;
+    color: #000;
 }
 
 #invitee-name {
+    color: #ffffff;
     font-weight: bold;
 }
